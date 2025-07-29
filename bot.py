@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from typing import Dict, List
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8135456676:AAF0GKyrL7V5unpL_B1WDwjNrL89nLZ6AtI"  # ← Замените на свой токен от @BotFather
+BOT_TOKEN = "my_token"  # ← Замените на свой токен от @BotFather
 PROGRAM_URLS = {
     "ai": "https://abit.itmo.ru/program/master/ai",
     "ai_product": "https://abit.itmo.ru/program/master/ai_product"
